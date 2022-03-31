@@ -1,0 +1,15 @@
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectUtilities\bin\Debug\net6.0\ProjectUtilities.deps.json
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectUtilities\bin\Debug\net6.0\ProjectUtilities.dll
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectUtilities\bin\Debug\net6.0\ProjectUtilities.pdb
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectUtilities\bin\Debug\net6.0\ProjectPOMFrameWork.dll
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectUtilities\bin\Debug\net6.0\ProjectPOMFrameWork.pdb
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectUtilities\obj\Debug\net6.0\ProjectUtilities.csproj.AssemblyReference.cache
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectUtilities\obj\Debug\net6.0\ProjectUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectUtilities\obj\Debug\net6.0\ProjectUtilities.AssemblyInfoInputs.cache
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectUtilities\obj\Debug\net6.0\ProjectUtilities.AssemblyInfo.cs
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectUtilities\obj\Debug\net6.0\ProjectUtilities.csproj.CoreCompileInputs.cache
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectUtilities\obj\Debug\net6.0\ProjectUtilities.csproj.CopyComplete
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectUtilities\obj\Debug\net6.0\ProjectUtilities.dll
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectUtilities\obj\Debug\net6.0\refint\ProjectUtilities.dll
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectUtilities\obj\Debug\net6.0\ProjectUtilities.pdb
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectUtilities\obj\Debug\net6.0\ref\ProjectUtilities.dll

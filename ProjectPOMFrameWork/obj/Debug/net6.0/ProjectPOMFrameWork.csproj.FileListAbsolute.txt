@@ -1,0 +1,12 @@
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectPOMFrameWork\bin\Debug\net6.0\ProjectPOMFrameWork.deps.json
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectPOMFrameWork\bin\Debug\net6.0\ProjectPOMFrameWork.dll
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectPOMFrameWork\bin\Debug\net6.0\ProjectPOMFrameWork.pdb
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectPOMFrameWork\obj\Debug\net6.0\ProjectPOMFrameWork.csproj.AssemblyReference.cache
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectPOMFrameWork\obj\Debug\net6.0\ProjectPOMFrameWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectPOMFrameWork\obj\Debug\net6.0\ProjectPOMFrameWork.AssemblyInfoInputs.cache
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectPOMFrameWork\obj\Debug\net6.0\ProjectPOMFrameWork.AssemblyInfo.cs
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectPOMFrameWork\obj\Debug\net6.0\ProjectPOMFrameWork.csproj.CoreCompileInputs.cache
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectPOMFrameWork\obj\Debug\net6.0\ProjectPOMFrameWork.dll
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectPOMFrameWork\obj\Debug\net6.0\refint\ProjectPOMFrameWork.dll
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectPOMFrameWork\obj\Debug\net6.0\ProjectPOMFrameWork.pdb
+C:\Thirumala\PersonalDocs\AbstractFactoryDesignPatternEPAM\ProjectPOMFrameWork\obj\Debug\net6.0\ref\ProjectPOMFrameWork.dll
